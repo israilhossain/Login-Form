@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-image: url(girl-5978194.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+.container h1{
+    color:#1c8adb;
+    margin-bottom: 30px;
+}
+.container input[type="email"], .container input[type="password"]{
+    border-radius: 20px;
+    padding:10px;
+    margin:10px 0;
+    width:100%;
+    border:1px solid black;
+    outline: none;
+}
+.img-style{
+    font-size: 20px;
+    margin-top: -500px;
+}
